@@ -5,3 +5,5 @@ As the culminating laboratory project for my honours year at the University of t
 The report for the project can be found in the given [technical report](https://github.com/jvroo/PovertyFromSpace/blob/main/Estimate_Poverty_From_Space_Report.pdf).
 
 ![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/africa_DHS.png?raw=true)
+
+Figure 1: A map of Africa showing the 23 sub-Saharan African countries studied in this report. South africa was added to this research as shown. 
