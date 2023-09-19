@@ -4,3 +4,4 @@ As the culminating laboratory project for my honours year at the University of t
 
 The report for the project can be found in the given [technical report](https://github.com/jvroo/PovertyFromSpace/blob/main/Estimate_Poverty_From_Space_Report.pdf).
 
+![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/africa_DHS.png?raw=true)
