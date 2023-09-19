@@ -7,3 +7,15 @@ The report for the project can be found in the given [technical report](https://
 ![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/africa_DHS.png?raw=true)
 
 Figure 1: A map of Africa showing the 23 sub-Saharan African countries studied in this report. South africa was added to this research as shown. 
+
+![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/sa_lable_wealth.png?raw=true)
+
+Figure 2: A map of South Africa showing the ground truth asset wealth distribution during 2016.
+
+![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/sa_2016_predicted_best_model.png?raw=true)
+
+Figure 3: A map of South Africa showing the predicted asset wealth distribution during 2016.
+
+![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/IWIvsGDP_Fixed.jpg.png?raw=true)
+
+Figure 4: A comparison of the predicted asset wealth throughout South Africa compared against the GDP for a given year. This shows temporal accuracy of the models. 
